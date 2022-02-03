@@ -2,4 +2,4 @@ def sum(a, b):
     return a-b
 
 
-print("The Diff is: ", sum(10, 5))
+print("The Diff is : ", sum(10, 5))
